@@ -3,6 +3,9 @@ title: "Estadísticas y métodos para el análisis de la respuesta a brotes."
 subtitle: "Día 2"
 format: revealjs
 editor: visual
+project:
+  type: website
+  output-dir: docs
 ---
 
 ## Agenda:
